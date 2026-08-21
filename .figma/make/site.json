@@ -1,0 +1,10 @@
+{
+  "description": "Create an engaging and professional business website tailored for top organizations, enhancing online presence and user interaction.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
