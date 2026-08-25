@@ -34,7 +34,7 @@ export default function Footer() {
                 className="font-bold text-lg tracking-tight text-white"
                 style={{ fontFamily: 'Plus Jakarta Sans, sans-serif' }}
               >
-                MERN Solutions
+                Ninexo
               </span>
             </div>
             <p className="text-sm leading-relaxed" style={{ color: '#9CA3AF', maxWidth: '260px' }}>
@@ -57,7 +57,7 @@ export default function Footer() {
               </a>
               {/* Email */}
               <a
-                href="mailto:hello@mernsolutions.co"
+                href="mailto:hello@ninexo.in"
                 className="w-9 h-9 rounded-lg flex items-center justify-center transition-all duration-200"
                 style={{ background: '#1E2A3B' }}
                 onMouseEnter={(e) => (e.currentTarget.style.background = '#2F5FE0')}
@@ -131,7 +131,7 @@ export default function Footer() {
               Get in Touch
             </h4>
             <div className="flex flex-col gap-3 text-sm" style={{ color: '#9CA3AF' }}>
-              <p>hello@mernsolutions.co</p>
+              <p>hello@ninexo.in</p>
               <p>WhatsApp available</p>
               <Link
                 to="/contact"
@@ -151,7 +151,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4" style={{ borderTop: '1px solid #1F2937' }}>
           <p className="text-sm" style={{ color: '#6B7280' }}>
-            © 2026 MERN Solutions. All rights reserved.
+            © 2026 Ninexo. All rights reserved.
           </p>
           <p className="text-sm" style={{ color: '#6B7280' }}>
             You know your business. We know how to build the digital solution.

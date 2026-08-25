@@ -157,8 +157,8 @@ export default function Contact() {
                         </svg>
                       ),
                       label: 'Email',
-                      value: 'hello@mernsolutions.co',
-                      href: 'mailto:hello@mernsolutions.co',
+                      value: 'hello@ninexo.in',
+                      href: 'mailto:hello@ninexo.in',
                       sub: 'We reply within one business day',
                     },
                     {
@@ -491,11 +491,11 @@ export default function Contact() {
               Send us a message and we'll get back to you.
             </p>
             <a
-              href="mailto:hello@mernsolutions.co"
+              href="mailto:hello@ninexo.in"
               className="text-sm font-semibold transition-colors"
               style={{ color: '#2F5FE0', fontFamily: 'Plus Jakarta Sans, sans-serif' }}
             >
-              hello@mernsolutions.co →
+              hello@ninexo.in →
             </a>
           </div>
         </div>

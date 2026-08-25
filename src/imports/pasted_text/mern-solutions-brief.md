@@ -1,7 +1,7 @@
-# MERN Solutions — Website Design Brief (for Figma Make)
+# Ninexo — Website Design Brief (for Figma Make)
 
 ## 0. ONE-LINE BRIEF
-Design a **premium, bright, trustworthy marketing/sales website** for MERN Solutions, a digital solutions agency. This is a **customer-conversion website**, NOT a developer portfolio, NOT a tech-stack showcase. Every section must speak to a non-technical business owner about **their business goals**, not about our technology.
+Design a **premium, bright, trustworthy marketing/sales website** for Ninexo, a digital solutions agency. This is a **customer-conversion website**, NOT a developer portfolio, NOT a tech-stack showcase. Every section must speak to a non-technical business owner about **their business goals**, not about our technology.
 
 **North star line to repeat throughout:**
 > "You know your business. We know how to build the digital solution."
@@ -24,7 +24,7 @@ Visitor should leave thinking: *"They understand businesses like mine, they can 
 ## 2. DESIGN SYSTEM (use exactly)
 
 **Colors — Pure Trust Blue system**
-A single cohesive blue family carries trust, credibility, and professionalism throughout. No secondary hue (green/amber) is used — depth and warmth come from tint/shade variation within blue plus generous whitespace, not from a second color family. Name/logo-agnostic: this palette is chosen for what it communicates, not tied to "MERN."
+A single cohesive blue family carries trust, credibility, and professionalism throughout. No secondary hue (green/amber) is used — depth and warmth come from tint/shade variation within blue plus generous whitespace, not from a second color family. Name/logo-agnostic: this palette is chosen for what it communicates, not tied to "NINEXO."
 
 | Token | Hex | Use |
 |---|---|---|
@@ -72,7 +72,7 @@ Also never lead with tech stack (React/Node/MongoDB). If technology is mentioned
 ## 5. HOMEPAGE — SECTION-BY-SECTION
 
 The homepage must follow this emotional/narrative arc:
-**I have a business/idea → I need a digital solution → MERN understands my problem → They can build it → They've already built real products → Their process is simple → I trust them → Let's Talk.**
+**I have a business/idea → I need a digital solution → Ninexo understands my problem → They can build it → They've already built real products → Their process is simple → I trust them → Let's Talk.**
 
 ### 5.1 Hero
 - Headline: **"Your Business. Your Idea. Our Digital Solutions."** (alt: "Digital Solutions That Help Your Business Grow.")
@@ -140,7 +140,7 @@ Use qualitative pillars instead of numbers: Real Work · Real Solutions · Clear
 
 ### 5.10 About (short)
 Heading: "We Believe Technology Should Make Business Easier."
-Copy: "MERN Solutions is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence. Whether you need a professional website, a mobile application, an online store, or a custom system for your business, we help turn your requirements into practical digital solutions." Keep brief, not corporate.
+Copy: "Ninexo is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence. Whether you need a professional website, a mobile application, an online store, or a custom system for your business, we help turn your requirements into practical digital solutions." Keep brief, not corporate.
 
 ### 5.11 Final CTA
 Heading: "Have a Business Idea in Mind?" (alt: "Let's Build Something That Works for Your Business.")
@@ -152,10 +152,10 @@ Heading: "Let's Talk About Your Business." / Sub: "You don't need a detailed tec
 Form fields: Name · Business Name · Email · Phone/WhatsApp · What are you looking for? · Tell us about your requirement · (optional) Budget · (optional) Timeline. CTA: **Send Enquiry**. Also show direct WhatsApp / Email / Call options.
 
 ### 5.13 Footer
-"MERN Solutions — Digital solutions that help businesses grow."
+"Ninexo — Digital solutions that help businesses grow."
 Nav: Home · Services · Our Work · About · Contact
 Services list: Websites · Mobile Apps · Online Stores · Business Software · Automation
-Contact/social links. Copyright: **© 2026 MERN Solutions. All rights reserved.**
+Contact/social links. Copyright: **© 2026 Ninexo. All rights reserved.**
 
 ---
 
@@ -170,7 +170,7 @@ Always translate technical framing into outcome framing:
 - ❌ "Our technical expertise." → ✅ "What can we build for your business?"
 - ❌ "Our technology stack." → ✅ "The solution your business needs."
 
-The customer is always the protagonist; MERN Solutions is the partner helping them get there.
+The customer is always the protagonist; Ninexo is the partner helping them get there.
 
 ---
 

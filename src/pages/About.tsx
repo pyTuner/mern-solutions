@@ -127,7 +127,7 @@ export default function About() {
                 className="reveal reveal-delay-2 text-xl leading-relaxed"
                 style={{ color: '#5B6472', fontFamily: 'Inter, sans-serif', maxWidth: 520 }}
               >
-                MERN Solutions is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence.
+                Ninexo is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence.
               </p>
             </div>
 

@@ -841,7 +841,7 @@ function WhyChooseUs() {
     <section ref={ref} className="py-20 md:py-28" style={{ background: '#F2F5FE' }}>
       <div className="max-w-7xl mx-auto px-6 md:px-8">
         <div className="max-w-2xl mb-14">
-          <div className="reveal mb-5"><SectionLabel>Why MERN Solutions</SectionLabel></div>
+          <div className="reveal mb-5"><SectionLabel>Why Ninexo</SectionLabel></div>
           <h2 className="reveal reveal-delay-1 font-bold mb-4" style={{ fontFamily: 'Plus Jakarta Sans, sans-serif', fontSize: 'clamp(28px,4vw,44px)', color: '#111827', lineHeight: 1.2 }}>
             You Know Your Business. We Know How to Build It.
           </h2>
@@ -906,7 +906,7 @@ function AboutSnippet() {
               We Believe Technology Should Make Business Easier.
             </h2>
             <p className="reveal reveal-delay-2 text-base leading-relaxed mb-8" style={{ color: '#5B6472', fontFamily: 'Inter, sans-serif' }}>
-              MERN Solutions is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence. Whether you need a professional website, a mobile application, an online store, or a custom system for your business, we help turn your requirements into practical digital solutions.
+              Ninexo is a digital solutions company focused on helping businesses establish, improve, and grow their digital presence. Whether you need a professional website, a mobile application, an online store, or a custom system for your business, we help turn your requirements into practical digital solutions.
             </p>
             <div className="reveal reveal-delay-3">
               <Link
@@ -1011,7 +1011,7 @@ function ContactSnippet() {
             </p>
             <div className="reveal reveal-delay-3 flex flex-col gap-5">
               {[
-                { icon: '📧', label: 'Email', value: 'hello@mernsolutions.co', href: 'mailto:hello@mernsolutions.co' },
+                { icon: '📧', label: 'Email', value: 'hello@ninexo.in', href: 'mailto:hello@ninexo.in' },
                 { icon: '💬', label: 'WhatsApp', value: 'Message us on WhatsApp', href: '#' },
                 { icon: '📞', label: 'Call', value: 'Available on request', href: '#' },
               ].map((c) => (

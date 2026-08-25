@@ -48,7 +48,7 @@ export default function Navbar() {
             className="font-bold text-lg tracking-tight"
             style={{ fontFamily: 'Plus Jakarta Sans, sans-serif', color: '#111827' }}
           >
-            MERN <span style={{ color: '#2F5FE0' }}>Solutions</span>
+            Ninexo<span style={{ color: '#2F5FE0' }}></span>
           </span>
         </Link>
 
